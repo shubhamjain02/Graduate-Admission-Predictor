@@ -3,6 +3,7 @@
 
 This project aims in helping students in shortlisting universities with their profiles. The predicted output gives them a fair idea (percentage out of 100) about their chances for a particular university.
 
+#### Click [here](https://prediction-of-grad-admission.herokuapp.com/) to view the deployed WebApp using Heroku.
 ## Source
 
 This dataset is taken from kaggle for Self Learning. \
@@ -56,4 +57,7 @@ You can also test-run the example on Google Colaboratory by clicking the followi
 ## Issues
 
 If you encounter any issue or have a feedback, please don't hesitate to [raise an issue](https://github.com/shubhamjain02/Graduate-Admission-Predictor/issues).
+
+
+## **Do ⭐ the repository, if it helped you in anyway.**
 
